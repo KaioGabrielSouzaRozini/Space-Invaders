@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+.canvas {
+  border: 6px solid greenyellow;
+}
+.gameover {
+  color: white;
+  font-size: 40px;
+}
